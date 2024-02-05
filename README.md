@@ -1,2 +1,2 @@
 # Get-your-host
-Little program to get a host number / name 
+Program allows to see host number / name, and copy it. For Windows.
